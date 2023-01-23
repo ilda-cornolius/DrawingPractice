@@ -1,0 +1,8 @@
+#drawingCanvas {
+  position: static;
+        margin: auto;
+    
+    border: 1px solid black;
+    overflow: visible;
+  }
+  
